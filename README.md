@@ -8,9 +8,8 @@ of Beira Interior has provided me with a diverse and stimulating environment, fo
 to applying my coding skills to create innovative solutions and explore new frontiers in technology
 
 <p align ="left">
-  <a href=https://www.instagram.com/tiago_._._liu_/>
-    <i class="fa-brands fa-instagram"></i>
-  </a>
+ <a href="https://www.instagram.com/tiago_._._liu_/"><img width="32px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!--
