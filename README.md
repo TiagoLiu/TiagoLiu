@@ -7,6 +7,11 @@ and various other technologies. This unique skill set not only enhances my under
 of Beira Interior has provided me with a diverse and stimulating environment, fostering my passion for learning and encouraging personal growth. I am excited about the opportunities ahead, and I look forward 
 to applying my coding skills to create innovative solutions and explore new frontiers in technology
 
+<p align ="left">
+  <a href=https://www.instagram.com/tiago_._._liu_/>
+    <i class="fa-brands fa-instagram"></i>
+</p>
+
 <!--
 **TiagoLiu/TiagoLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
