@@ -10,6 +10,7 @@ to applying my coding skills to create innovative solutions and explore new fron
 <p align ="left">
   <a href=https://www.instagram.com/tiago_._._liu_/>
     <i class="fa-brands fa-instagram"></i>
+  </a>
 </p>
 
 <!--
